@@ -1,0 +1,24 @@
+.create-todo__form {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 50%;
+}
+
+.create-todo__input {
+    width: 70%;
+    padding: 20px;
+    border: 0;
+    font-size: 20px;
+}
+
+.create-todo__button {
+    width: 20%;
+    padding: 20px;
+    border: 5px solid rgb(0, 83, 0);
+    border-radius: 10px;
+    font-size: 20px;
+    background-color: greenyellow;
+    color: rgb(0, 83, 0);
+    
+}
